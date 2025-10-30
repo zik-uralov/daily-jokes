@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-30 15:26:22:
-Why do programmers prefer dark mode? Because light attracts bugs!
+🎭 Latest Joke - 2025-10-30 16:18:55:
+My software never has bugs. It just develops random features.
 
-Source: Fallback joke (local)
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
-Next update in 30 minutes...
+Next update in 20 minutes...
