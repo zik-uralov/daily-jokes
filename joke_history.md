@@ -91,3 +91,4 @@ Who's there?
 Recursion.
 Recursion who?
 Knock knock.
+- 2025-10-30 14:15:19: Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
