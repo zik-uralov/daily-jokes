@@ -65,3 +65,4 @@ Me: "Damn."
 Me (thinking): "Please be death, please be death..."
 Judge: "Learn Java!"
 Me: "Damn."
+- 2025-10-29 21:15:28: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
