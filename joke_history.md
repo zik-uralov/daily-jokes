@@ -25,3 +25,8 @@ It approaches, and asks "may I join you?"
 - 2025-10-29 20:52:10: Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 - 2025-10-29 21:10:49: A programmer puts two glasses on his bedside table before going to sleep.
 A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+- 2025-10-29 21:11:00: Two C strings walk into a bar.
+The bartender asks "What can I get ya?"
+The first string says "I'll have a gin and tonic."
+The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
+The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
