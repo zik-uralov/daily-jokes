@@ -58,3 +58,4 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 Me (thinking): "Please be death, please be death..."
 Judge: "Learn Java!"
 Me: "Damn."
+- 2025-10-29 21:14:51: Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
