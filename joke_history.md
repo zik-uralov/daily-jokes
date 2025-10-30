@@ -72,3 +72,4 @@ The Mechanical engineer says "It's a broken starter".
 The Electrical engineer says "Dead battery".
 The Chemical engineer says "Impurities in the gasoline".
 The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
+- 2025-10-29 21:30:56: What's red and bad for your teeth? A Brick. (source: https://icanhazdadjoke.com/)
