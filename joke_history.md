@@ -134,3 +134,5 @@ But I'd use RGB for you.
 - 2025-10-30 15:25:28: The generation of random numbers is too important to be left to chance.
 - 2025-10-30 15:26:22: Why do programmers prefer dark mode? Because light attracts bugs! (source: Fallback joke (local))
 - 2025-10-30 15:58:32: I'd tell you a joke about NAT but I would have to translate.
+- 2025-10-30 16:13:32: A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
