@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-29 21:48:12:
-Why did I divide sin by tan? Just cos.
+🎭 Latest Joke - 2025-10-29 22:52:06:
+Why did the programmer always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
