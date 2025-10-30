@@ -1,0 +1,38 @@
+name: Update Joke Charts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  push:
+    paths:
+      - 'history.csv'       # Run when CSV changes
+  workflow_dispatch:        # Manual trigger
+
+jobs:
+  update-charts:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        pip install pandas matplotlib
+        
+    - name: Generate charts
+      run: |
+        python scripts/generate_charts.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add charts/ JOKE_STATS.md
+        git diff --staged --quiet || git commit -m "📊 Update joke charts and stats"
+        git push
