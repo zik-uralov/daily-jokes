@@ -33,3 +33,4 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 - 2025-10-29 21:11:10: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 - 2025-10-29 21:11:21: Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 - 2025-10-29 21:11:32: Your mama's so FAT she can't save files bigger than 4GB.
+- 2025-10-29 21:11:43: Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
