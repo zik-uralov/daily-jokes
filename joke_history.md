@@ -45,3 +45,4 @@ It approaches, and asks "may I join you?"
 - 2025-10-29 21:12:48: Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 - 2025-10-29 21:12:58: A programmer puts two glasses on his bedside table before going to sleep.
 A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+- 2025-10-29 21:13:09: Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
