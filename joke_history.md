@@ -6,3 +6,7 @@
 I hope your code behaves the same on Monday as it did on Friday.
 - 2025-10-29 20:10:13: Debugging: Removing the needles from the haystack.
 - 2025-10-29 20:23:12: Debugging: Removing the needles from the haystack.
+- 2025-10-29 20:26:44: A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
