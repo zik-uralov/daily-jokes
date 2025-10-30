@@ -131,3 +131,4 @@ I use hex codes,
 But I'd use RGB for you.
 - 2025-10-30 14:59:18: Why do programmers prefer dark mode? Because light attracts bugs! (source: Fallback joke (local))
 - 2025-10-30 15:24:59: Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+- 2025-10-30 15:25:28: The generation of random numbers is too important to be left to chance.
