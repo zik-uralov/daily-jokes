@@ -12,3 +12,11 @@ This project is an automated joke bot that runs as a background service on your 
 ## How it works
 
 The main logic is in the `joke-bot.sh` script, and the `.config/systemd/user/joke-bot.service` file ensures this script runs automatically.
+
+## Data visualizations
+
+Run `scripts/generate_charts.py` to build summary charts from `history.csv`. The latest renderings live in the `charts/` directory and can be viewed below:
+
+![Jokes Per Day](charts/jokes_per_day.png)
+![Joke Sources](charts/joke_sources.png)
+![Activity by Hour](charts/activity_by_hour.png)
