@@ -18,3 +18,5 @@ The bartender asks, "Can I get you anything?"
 - 2025-10-29 20:37:59: "Can I tell you a TCP joke?"
 "Please tell me a TCP joke."
 "OK, I'll tell you a TCP joke."
+- 2025-10-29 20:42:04: A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
