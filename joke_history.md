@@ -67,3 +67,8 @@ Judge: "Learn Java!"
 Me: "Damn."
 - 2025-10-29 21:15:28: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 - 2025-10-29 21:15:39: Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+- 2025-10-29 21:21:52: Four engineers get into a car. The car won't start.
+The Mechanical engineer says "It's a broken starter".
+The Electrical engineer says "Dead battery".
+The Chemical engineer says "Impurities in the gasoline".
+The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
