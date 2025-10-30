@@ -119,3 +119,8 @@ But I'd use RGB for you.
 "Oh and while you're there, get some milk."
 He never returned.
 - 2025-10-30 14:39:40: Why do programmers prefer dark mode? Because light attracts bugs! (source: Fallback joke (local))
+- 2025-10-30 14:46:32: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
