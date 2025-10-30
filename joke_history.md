@@ -66,3 +66,4 @@ Me (thinking): "Please be death, please be death..."
 Judge: "Learn Java!"
 Me: "Damn."
 - 2025-10-29 21:15:28: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+- 2025-10-29 21:15:39: Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
