@@ -59,3 +59,4 @@ Me (thinking): "Please be death, please be death..."
 Judge: "Learn Java!"
 Me: "Damn."
 - 2025-10-29 21:14:51: Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+- 2025-10-29 21:14:56: I've got a really good UDP joke to tell you but I don’t know if you'll get it.
