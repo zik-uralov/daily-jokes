@@ -42,3 +42,4 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 - 2025-10-29 21:12:36: A SQL statement walks into a bar and sees two tables.
 It approaches, and asks "may I join you?"
 - 2025-10-29 21:12:47: If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+- 2025-10-29 21:12:48: Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
