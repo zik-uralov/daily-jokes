@@ -1,0 +1,14 @@
+[Unit]
+Description=Daily Joke Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/home/kit/Documents/daily-jokes/joke-bot.sh
+WorkingDirectory=/home/kit/Documents/daily-jokes
+Restart=always
+RestartSec=10
+Environment=DISPLAY=:0
+
+[Install]
+WantedBy=default.target
