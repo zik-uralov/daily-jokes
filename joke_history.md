@@ -23,3 +23,5 @@ It approaches, and asks "may I join you?"
 - 2025-10-29 20:48:23: Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 - 2025-10-29 20:49:30: Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 - 2025-10-29 20:52:10: Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+- 2025-10-29 21:10:49: A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
