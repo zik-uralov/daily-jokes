@@ -48,3 +48,4 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 - 2025-10-29 21:13:09: Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 - 2025-10-29 21:13:19: A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."
 - 2025-10-29 21:13:30: Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+- 2025-10-29 21:13:41: Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
