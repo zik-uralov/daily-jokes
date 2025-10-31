@@ -168,3 +168,4 @@ The guy says "In that case, better make it a double." (source: https://v2.jokeap
 I would tell you....
 But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-10-30 21:29:48: If at first you don't succeed, sky diving is not for you! (source: https://icanhazdadjoke.com/)
+- 2025-10-30 21:49:50: Why did the programmer quit his job? Because he didn't get arrays. (source: https://official-joke-api.appspot.com/jokes/programming/random)
