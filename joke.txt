@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-30 17:29:26:
-Why did the knife dress up in a suit? Because it wanted to look sharp
+🎭 Latest Joke - 2025-10-30 17:49:28:
+What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit.
 
-Source: https://icanhazdadjoke.com/
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
