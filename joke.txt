@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-30 23:29:58:
-Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
+🎭 Latest Joke - 2025-10-30 23:50:01:
+Chuck Norris ordered a chicken burger at In-N-Out and he got one.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
