@@ -1,6 +1,11 @@
-🎭 Latest Joke - 2025-10-30 19:49:38:
-What kind of music do mummy's like? Rap
+🎭 Latest Joke - 2025-10-30 20:09:40:
+"Knock, knock."
+"Who's there?"
 
-Source: https://icanhazdadjoke.com/
+[very long pause]
+
+"Java."
+
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
