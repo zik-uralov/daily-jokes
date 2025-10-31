@@ -176,3 +176,4 @@ But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?
 - 2025-10-30 23:29:58: Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone". (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-10-30 23:50:01: Chuck Norris ordered a chicken burger at In-N-Out and he got one. (source: https://api.chucknorris.io/jokes/random)
 - 2025-10-31 00:10:03: Why did the programmer always mix up Halloween and Christmas? Because Oct 31 equals Dec 25. (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-10-31 00:30:05: Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?" (source: https://v2.jokeapi.dev/joke/Any?type=single)
