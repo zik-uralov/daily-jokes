@@ -1,11 +1,6 @@
-🎭 Latest Joke - 2025-10-30 20:09:40:
-"Knock, knock."
-"Who's there?"
+🎭 Latest Joke - 2025-10-30 20:29:41:
+Just simply witnessing a Chuck Norris roundhouse kick to somebody else's face can cause you to get a case of Tourette's syndrone.
 
-[very long pause]
-
-"Java."
-
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
