@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-30 16:49:22:
-Why do programmers always get Christmas and Halloween mixed up? Because DEC 25 = OCT 31
+🎭 Latest Joke - 2025-10-30 17:09:24:
+Chuck Norris doesn't cheat death. He wins fair and square.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
