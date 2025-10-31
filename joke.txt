@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-30 22:29:53:
-['hip', 'hip'] (hip hip array)
+🎭 Latest Joke - 2025-10-30 22:49:54:
+Chuck Norris can ride his bike with no handlebars..............or wheels
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
