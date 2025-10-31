@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-30 23:09:57:
-Hey, wanna hear a joke? Parsing HTML with regex.
+🎭 Latest Joke - 2025-10-30 23:29:58:
+Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
