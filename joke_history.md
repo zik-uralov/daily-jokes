@@ -179,3 +179,4 @@ But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?
 - 2025-10-31 00:30:05: Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?" (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-10-31 05:12:29: Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between! (source: https://icanhazdadjoke.com/)
 - 2025-10-31 21:58:25: Did you hear the one about the giant pickle?  He was kind of a big dill. (source: https://icanhazdadjoke.com/)
+- 2025-10-31 22:18:27: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (source: https://v2.jokeapi.dev/joke/Any?type=single)
