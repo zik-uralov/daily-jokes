@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-31 23:58:37:
-Why do bees have sticky hair? Because they use honey combs!
+🎭 Latest Joke - 2025-11-01 00:18:39:
+Java programmers are some of the most materialistic people I know, very object-oriented
 
-Source: https://icanhazdadjoke.com/
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...

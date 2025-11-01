@@ -185,3 +185,4 @@ But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?
 - 2025-10-31 23:18:33: What do you call a computer mouse that swears a lot? A cursor! (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-10-31 23:38:35: What was a more important invention than the first telephone? The second one. (source: https://icanhazdadjoke.com/)
 - 2025-10-31 23:58:37: Why do bees have sticky hair? Because they use honey combs! (source: https://icanhazdadjoke.com/)
+- 2025-11-01 00:18:39: Java programmers are some of the most materialistic people I know, very object-oriented (source: https://geek-jokes.sameerkumar.website/api?format=json)
