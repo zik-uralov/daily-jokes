@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-10-31 22:38:29:
-Why are basketball players messy eaters? Because they are always dribbling.
+🎭 Latest Joke - 2025-10-31 22:58:31:
+Debugging: Removing the needles from the haystack.
 
-Source: https://icanhazdadjoke.com/
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
