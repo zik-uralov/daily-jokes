@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-01 00:18:39:
-Java programmers are some of the most materialistic people I know, very object-oriented
+🎭 Latest Joke - 2025-11-01 00:38:41:
+I was going to tell a dead baby joke. But I decided to abort.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
