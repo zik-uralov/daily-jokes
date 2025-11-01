@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-01 00:38:41:
-I was going to tell a dead baby joke. But I decided to abort.
+🎭 Latest Joke - 2025-11-01 00:58:43:
+Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...

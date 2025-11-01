@@ -187,3 +187,4 @@ But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?
 - 2025-10-31 23:58:37: Why do bees have sticky hair? Because they use honey combs! (source: https://icanhazdadjoke.com/)
 - 2025-11-01 00:18:39: Java programmers are some of the most materialistic people I know, very object-oriented (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-01 00:38:41: I was going to tell a dead baby joke. But I decided to abort. (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-11-01 00:58:43: Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'. (source: https://geek-jokes.sameerkumar.website/api?format=json)
