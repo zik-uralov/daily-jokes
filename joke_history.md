@@ -192,3 +192,4 @@ But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?
 - 2025-11-05 17:11:55: In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-06 00:02:12: Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-06 00:22:14: All browsers support the hex definitions #chuck and #norris for the colors black and blue. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2025-11-06 00:22:37: To whoever stole my copy of Microsoft Office, I will find you. You have my Word! (source: https://v2.jokeapi.dev/joke/Any?type=single)
