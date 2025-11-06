@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-06 02:02:46:
-The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
+🎭 Latest Joke - 2025-11-06 02:22:48:
+Chuck Norris once accidentally broke steel by touching it.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
