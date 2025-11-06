@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-06 01:02:41:
-For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
+🎭 Latest Joke - 2025-11-06 01:22:43:
+An IPv6 packet is walking out of the house. He goes nowhere.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
