@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-05 17:11:55:
-In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
+🎭 Latest Joke - 2025-11-06 00:02:12:
+Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
