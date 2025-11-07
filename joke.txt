@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-06 04:02:57:
-Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
+🎭 Latest Joke - 2025-11-06 17:03:18:
+They once made a Chuck Norris toilet paper, but it wouldn't take shit from anybody.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
