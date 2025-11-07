@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-06 18:43:27:
-Theres no place like 127.0.0.1
+🎭 Latest Joke - 2025-11-06 19:03:29:
+When Chuck Norris points a gun at you you're actually safer
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
