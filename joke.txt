@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-06 18:23:26:
-I was going to tell a dead baby joke. But I decided to abort.
+🎭 Latest Joke - 2025-11-06 18:43:27:
+Theres no place like 127.0.0.1
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
