@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-06 20:03:35:
-Life is like a brutal Chuck Norris roundhouse kick. It's more spectacular than you will ever know.
+🎭 Latest Joke - 2025-11-07 21:10:12:
+What does a clock do when it's hungry? It goes back four seconds!
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://icanhazdadjoke.com/
 
-Next update in 20 minutes...
+Next update in 1 hour...
