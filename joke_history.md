@@ -222,3 +222,4 @@ I called him a hypocrite and unplugged his life support. (source: https://v2.jok
 Parents: "Don't tell us the gender, we want to keep it a surprise."
 Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing." (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-07 21:11:27: I have a joke about Stack Overflow, but you would say it's a duplicate. (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-11-07 21:31:29: How do you comfort a designer? You give them some space... between the elements. (source: https://official-joke-api.appspot.com/jokes/programming/random)

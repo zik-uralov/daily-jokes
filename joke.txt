@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-07 21:11:27:
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+🎭 Latest Joke - 2025-11-07 21:31:29:
+How do you comfort a designer? You give them some space... between the elements.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
