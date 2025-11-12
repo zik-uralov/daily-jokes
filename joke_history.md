@@ -238,3 +238,4 @@ When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/
 - 2025-11-11 20:51:40: How many programmers does it take to change a lightbulb? None that's a hardware problem (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-11-11 21:11:42: Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-11 21:31:44: I asked a frenchman if he played video games. He said "Wii" (source: https://icanhazdadjoke.com/)
+- 2025-11-11 21:51:45: If two vegans are having an argument, is it still considered beef? (source: https://icanhazdadjoke.com/)
