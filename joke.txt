@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-11 19:51:35:
-Why did the man put his money in the freezer? He wanted cold hard cash!
+🎭 Latest Joke - 2025-11-11 20:11:36:
+Chuck Norris's girlfriend once asked him how much wood a woodchuck could chuck if a woodchuck could chuck wood. He then shouted, "HOW DARE YOU RHYME IN THE PRESENCE OF CHUCK NORRIS!" and ripped out her throat. Holding his girlfriend's bloody throat in his hand he bellowed, "Don't fuck with Chuck!" Two years and five months later he realized the irony of this statement and laughed so hard that anyone within a hundred mile radius of the blast went deaf.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
