@@ -235,3 +235,4 @@ Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathin
 - 2025-11-11 20:31:39: Documentation is like sex:
 When it's good, it's very good.
 When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-11-11 20:51:40: How many programmers does it take to change a lightbulb? None that's a hardware problem (source: https://official-joke-api.appspot.com/jokes/programming/random)
