@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-11 20:51:40:
-How many programmers does it take to change a lightbulb? None that's a hardware problem
+🎭 Latest Joke - 2025-11-11 21:11:42:
+Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...

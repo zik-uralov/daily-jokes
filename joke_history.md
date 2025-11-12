@@ -236,3 +236,4 @@ Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathin
 When it's good, it's very good.
 When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-11 20:51:40: How many programmers does it take to change a lightbulb? None that's a hardware problem (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-11-11 21:11:42: Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in. (source: https://v2.jokeapi.dev/joke/Any?type=single)
