@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-12 03:08:41:
-My software never has bugs. It just develops random features.
+🎭 Latest Joke - 2025-11-12 03:28:43:
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...

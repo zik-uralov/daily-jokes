@@ -243,3 +243,4 @@ When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/
 - 2025-11-12 02:28:37: What goes after USA? USB. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-11-12 02:48:39: Why should you never trust a pig with a secret? Because it's bound to squeal. (source: https://icanhazdadjoke.com/)
 - 2025-11-12 03:08:41: My software never has bugs. It just develops random features. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2025-11-12 03:28:43: A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' (source: https://official-joke-api.appspot.com/jokes/programming/random)
