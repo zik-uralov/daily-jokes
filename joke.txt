@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-11 18:31:26:
-In 2014 Chuck Norris invested 1 cent with a Wall Street investment firm. As of today he became a billionaire.
+🎭 Latest Joke - 2025-11-11 18:51:29:
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
