@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-12 02:48:39:
-Why should you never trust a pig with a secret? Because it's bound to squeal.
+🎭 Latest Joke - 2025-11-12 03:08:41:
+My software never has bugs. It just develops random features.
 
-Source: https://icanhazdadjoke.com/
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
