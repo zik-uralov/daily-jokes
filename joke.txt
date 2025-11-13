@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-13 02:08:29:
-What did the Java code say to the C code? You've got no class.
+🎭 Latest Joke - 2025-11-13 02:28:31:
+Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...

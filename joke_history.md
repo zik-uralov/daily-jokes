@@ -252,3 +252,4 @@ When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/
 - 2025-11-12 21:18:50: I have a joke about trickle down economics, but 99% of you will never get it. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-12 21:38:52: Chuck Norris can kill people in four different languages. (source: https://api.chucknorris.io/jokes/random)
 - 2025-11-13 02:08:29: What did the Java code say to the C code? You've got no class. (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-11-13 02:28:31: Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face. (source: https://geek-jokes.sameerkumar.website/api?format=json)
