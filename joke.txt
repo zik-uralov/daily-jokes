@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-12 19:58:43:
-Why do cows wear bells? Because their horns don't work.
+🎭 Latest Joke - 2025-11-12 20:18:45:
+Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 
-Source: https://icanhazdadjoke.com/
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
