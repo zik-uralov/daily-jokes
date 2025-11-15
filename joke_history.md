@@ -288,3 +288,4 @@ The Electrical engineer says "Dead battery".
 The Chemical engineer says "Impurities in the gasoline".
 The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in". (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-15 02:50:19: What's orange and sounds like a parrot? A Carrot. (source: https://icanhazdadjoke.com/)
+- 2025-11-15 03:10:21: Why dot net developers don't wear glasses? Because they see sharp. (source: https://official-joke-api.appspot.com/jokes/programming/random)
