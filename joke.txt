@@ -1,6 +1,10 @@
-🎭 Latest Joke - 2025-11-14 22:49:57:
-With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+🎭 Latest Joke - 2025-11-14 23:09:59:
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...

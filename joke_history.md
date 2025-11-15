@@ -263,3 +263,8 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-11-14 22:09:54: A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-11-14 22:29:56: Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-14 22:49:57: With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2025-11-14 23:09:59: How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5. (source: https://v2.jokeapi.dev/joke/Any?type=single)
