@@ -255,3 +255,5 @@ When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/
 - 2025-11-13 02:28:31: Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-13 02:48:33: The word queue is ironic. It's just q with a bunch of silent letters waiting in line. (source: https://icanhazdadjoke.com/)
 - 2025-11-14 20:29:44: Mc Hammer learned the hard way that Chuck Norris can touch this. (source: https://api.chucknorris.io/jokes/random)
+- 2025-11-14 20:49:46: My wife and I have reached the difficult decision that we do not want children.
+If anybody does, please just send me your contact details and we can drop them off tomorrow. (source: https://v2.jokeapi.dev/joke/Any?type=single)
