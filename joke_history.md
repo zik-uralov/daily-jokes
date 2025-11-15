@@ -277,3 +277,4 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-11-14 23:50:03: // This line doesn't actually do anything, but the code stops working when I delete it. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-15 00:10:05: Chuck Norris doesn't go places, places go to Chuck Norris (source: https://api.chucknorris.io/jokes/random)
 - 2025-11-15 00:30:07: If Superman and The Flash were to race to the edge of space you know who would win? Chuck Norris. (source: https://api.chucknorris.io/jokes/random)
+- 2025-11-15 00:50:09: ['hip', 'hip'] (hip hip array) (source: https://official-joke-api.appspot.com/jokes/programming/random)
