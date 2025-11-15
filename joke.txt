@@ -1,7 +1,6 @@
-🎭 Latest Joke - 2025-11-14 20:49:46:
-My wife and I have reached the difficult decision that we do not want children.
-If anybody does, please just send me your contact details and we can drop them off tomorrow.
+🎭 Latest Joke - 2025-11-14 21:09:48:
+Chuck Norris sleeps with a pillow under his gun.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
