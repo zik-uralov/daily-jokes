@@ -282,3 +282,8 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-11-15 01:30:12: how many Chuck Norris' does it Chuck to Norris? Chuck. Fucking Norris. (source: https://api.chucknorris.io/jokes/random)
 - 2025-11-15 01:50:15: What's the best part about TCP jokes? I get to keep telling them until you get them. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-11-15 02:10:16: Why can't you use "Beef stew" as a password? Because it's not stroganoff. (source: https://icanhazdadjoke.com/)
+- 2025-11-15 02:30:18: Four engineers get into a car. The car won't start.
+The Mechanical engineer says "It's a broken starter".
+The Electrical engineer says "Dead battery".
+The Chemical engineer says "Impurities in the gasoline".
+The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in". (source: https://v2.jokeapi.dev/joke/Any?type=single)
