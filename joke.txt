@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-13 02:48:33:
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+🎭 Latest Joke - 2025-11-14 20:29:44:
+Mc Hammer learned the hard way that Chuck Norris can touch this.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
