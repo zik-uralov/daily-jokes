@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-14 21:49:52:
-Debugging: Removing the needles from the haystack.
+🎭 Latest Joke - 2025-11-14 22:09:54:
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
