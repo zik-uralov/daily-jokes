@@ -261,3 +261,4 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-11-14 21:29:50: What do you call a bee that lives in America? A USB. (source: https://icanhazdadjoke.com/)
 - 2025-11-14 21:49:52: Debugging: Removing the needles from the haystack. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-14 22:09:54: A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-11-14 22:29:56: Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time. (source: https://geek-jokes.sameerkumar.website/api?format=json)
