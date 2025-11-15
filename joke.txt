@@ -1,9 +1,10 @@
-🎭 Latest Joke - 2025-11-14 23:09:59:
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+🎭 Latest Joke - 2025-11-14 23:30:01:
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 
 Source: https://v2.jokeapi.dev/joke/Any?type=single
 

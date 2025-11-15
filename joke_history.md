@@ -268,3 +268,9 @@ If anybody does, please just send me your contact details and we can drop them o
 - Did it work?
 - No?
 - It's HTML5. (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-11-14 23:30:01: "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java." (source: https://v2.jokeapi.dev/joke/Any?type=single)
