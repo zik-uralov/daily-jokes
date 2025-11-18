@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-18 05:55:31:
-Why was the font always tired? It was always bold.
+🎭 Latest Joke - 2025-11-18 06:15:32:
+Why do programmers prefer dark mode? Because light attracts bugs!
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: Fallback joke (local)
 
 Next update in 20 minutes...
