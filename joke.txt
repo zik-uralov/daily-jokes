@@ -1,6 +1,7 @@
-🎭 Latest Joke - 2025-11-21 17:12:24:
-When Chuck Norris makes a burrito, its main ingredient is real toes.
+🎭 Latest Joke - 2025-11-21 17:32:25:
+Nowadays people are so sensitive, you can't even say "black paint" anymore.
+Instead, you have to say "Jamal, please paint the fence".
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
