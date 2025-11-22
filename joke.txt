@@ -1,9 +1,6 @@
-🎭 Latest Joke - 2025-11-21 15:52:16:
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+🎭 Latest Joke - 2025-11-21 16:12:18:
+Everyone knew the world was flat,but they especially didn't want sail around the world because they knew if they fell then Chuck Norris would roundhouse kick them.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
