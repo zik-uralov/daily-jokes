@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-21 16:32:20:
-An apple a day keeps the bullies away. If you throw it hard enough.
+🎭 Latest Joke - 2025-11-21 16:52:22:
+Why did the programmer go broke? He used up all his cache
 
-Source: https://icanhazdadjoke.com/
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
