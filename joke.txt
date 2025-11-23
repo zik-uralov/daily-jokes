@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-21 17:52:27:
-Which song would an exception sing? Can't catch me - Avicii
+🎭 Latest Joke - 2025-11-23 14:15:59:
+Unix is user friendly. It’s just selective about who its friends are.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...

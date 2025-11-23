@@ -307,3 +307,4 @@ The bartender asks, "Can I get you anything?"
 - 2025-11-21 17:32:25: Nowadays people are so sensitive, you can't even say "black paint" anymore.
 Instead, you have to say "Jamal, please paint the fence". (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-21 17:52:27: Which song would an exception sing? Can't catch me - Avicii (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-11-23 14:15:59: Unix is user friendly. It’s just selective about who its friends are. (source: https://geek-jokes.sameerkumar.website/api?format=json)
