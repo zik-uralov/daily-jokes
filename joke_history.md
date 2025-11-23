@@ -313,3 +313,4 @@ Instead, you have to say "Jamal, please paint the fence". (source: https://v2.jo
 It's now three hours later, police have joined in and she still won't say where she got them. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-11-23 14:56:03: Why did the programmer always mix up Halloween and Christmas? Because Oct 31 equals Dec 25. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-11-23 15:16:05: Why do programmers always get Christmas and Halloween mixed up? Because DEC 25 = OCT 31 (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-11-23 15:36:06: What do you get when you cross a React developer with a mathematician? A function component. (source: https://official-joke-api.appspot.com/jokes/programming/random)
