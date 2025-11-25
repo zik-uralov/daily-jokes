@@ -337,3 +337,4 @@ It's now three hours later, police have joined in and she still won't say where 
 The bartender asks it: "What's wrong buddy?"
 "Parity error." it replies. 
 "Ah that makes sense, I thought you looked a bit off." (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-11-24 18:31:59: To whoever stole my copy of Microsoft Office, I will find you. You have my Word! (source: https://v2.jokeapi.dev/joke/Any?type=single)

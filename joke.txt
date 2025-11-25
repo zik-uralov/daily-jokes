@@ -1,8 +1,5 @@
-🎭 Latest Joke - 2025-11-24 18:11:57:
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+🎭 Latest Joke - 2025-11-24 18:31:59:
+To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
 
 Source: https://v2.jokeapi.dev/joke/Any?type=single
 
