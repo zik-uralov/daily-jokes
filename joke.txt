@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-24 17:11:52:
-Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
+🎭 Latest Joke - 2025-11-24 17:31:53:
+When Chuck Norris got his vasectomy, the Doctor put his scalpel back in the drawer and used a chainsaw.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
