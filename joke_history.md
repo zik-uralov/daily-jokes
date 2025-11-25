@@ -344,3 +344,4 @@ The bartender asks it: "What's wrong buddy?"
 - 2025-11-24 19:52:07: It’s hard to explain puns to kleptomaniacs, because they take everything literally. (source: https://icanhazdadjoke.com/)
 - 2025-11-24 20:12:09: There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-24 20:32:10: Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone". (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-11-24 20:52:12: Why did the miner get fired from his job? He took it for granite... (source: https://icanhazdadjoke.com/)
