@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-24 16:51:49:
-Chuck Norris died Years ago death was to scared to tell him
+🎭 Latest Joke - 2025-11-24 17:11:52:
+Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
