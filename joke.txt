@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-24 23:52:28:
-It takes guts to be an organ donor.
+🎭 Latest Joke - 2025-11-25 00:12:30:
+the situation didn't name himself,Chuck Norris roundhouses him and made him have a situation
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
