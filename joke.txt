@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-24 16:31:48:
-To the guy who invented zero... thanks for nothing.
+🎭 Latest Joke - 2025-11-24 16:51:49:
+Chuck Norris died Years ago death was to scared to tell him
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
