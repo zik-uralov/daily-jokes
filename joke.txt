@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-24 20:12:09:
-There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
+🎭 Latest Joke - 2025-11-24 20:32:10:
+Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
