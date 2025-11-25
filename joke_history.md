@@ -333,3 +333,7 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2025-11-24 17:11:52: Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-24 17:31:53: When Chuck Norris got his vasectomy, the Doctor put his scalpel back in the drawer and used a chainsaw. (source: https://api.chucknorris.io/jokes/random)
 - 2025-11-24 17:51:56: "I'll call you later." Don't call me later, call me Dad. (source: https://icanhazdadjoke.com/)
+- 2025-11-24 18:11:57: A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off." (source: https://v2.jokeapi.dev/joke/Any?type=single)
