@@ -1,7 +1,6 @@
-🎭 Latest Joke - 2025-11-29 07:39:35:
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+🎭 Latest Joke - 2025-11-29 07:59:37:
+The only pattern Chuck Norris knows is God Object.
 
-Source: https://icanhazdadjoke.com/
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
