@@ -1,6 +1,7 @@
-🎭 Latest Joke - 2025-11-25 00:32:32:
-This little piggy went to the market,this little piggy stayed home,this little piggy went we we we all the way home because Chuck Norris delivered a fatal roundhouse kick to the other piggy.
+🎭 Latest Joke - 2025-11-29 07:39:35:
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
