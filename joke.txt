@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-29 11:59:57:
-A guy challenged Chuck Norris to a knife fight so Chuck used what he had on hand and stabbed the guy to death with a toothpick.
+🎭 Latest Joke - 2025-11-29 12:19:59:
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...

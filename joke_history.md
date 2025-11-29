@@ -372,3 +372,4 @@ An irrelephant. (source: https://icanhazdadjoke.com/)
 - 2025-11-29 11:19:54: As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.' (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-29 11:39:56: Why did the developer break up with their keyboard? It just wasn't their type anymore. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-11-29 11:59:57: A guy challenged Chuck Norris to a knife fight so Chuck used what he had on hand and stabbed the guy to death with a toothpick. (source: https://api.chucknorris.io/jokes/random)
+- 2025-11-29 12:19:59: If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (source: https://v2.jokeapi.dev/joke/Any?type=single)
