@@ -367,3 +367,4 @@ The bartender asks it: "What's wrong buddy?"
 - 2025-11-29 09:59:48: I accidentally took my cats meds last night. Don’t ask meow. (source: https://icanhazdadjoke.com/)
 - 2025-11-29 10:19:50: What's large, grey, and doesn't matter?
 An irrelephant. (source: https://icanhazdadjoke.com/)
+- 2025-11-29 10:39:51: Someone asked me to name two structures that hold water. I said "Well dam" (source: https://icanhazdadjoke.com/)
