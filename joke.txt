@@ -1,7 +1,6 @@
-🎭 Latest Joke - 2025-11-29 13:20:05:
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+🎭 Latest Joke - 2025-11-29 13:40:07:
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
