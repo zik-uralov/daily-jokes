@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-29 08:19:39:
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+🎭 Latest Joke - 2025-11-29 08:39:41:
+Why did the programmer always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.
 
-Source: https://icanhazdadjoke.com/
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
