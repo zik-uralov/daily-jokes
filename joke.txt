@@ -1,6 +1,7 @@
-🎭 Latest Joke - 2025-12-01 09:39:20:
-Why did the private classes break up? Because they never saw each other.
+🎭 Latest Joke - 2025-12-01 09:43:14:
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
