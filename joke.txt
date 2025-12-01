@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-01 11:43:25:
-Chuck Norris commanded Russell Wilson to pass the ball instead of handing it off to Marshawn Lynch. Thats the reason why the Patriots won.........Seahawks should've won.
+🎭 Latest Joke - 2025-12-01 12:03:27:
+Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...

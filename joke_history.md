@@ -394,3 +394,4 @@ I hope your code behaves the same on Monday as it did on Friday. (source: https:
 - 2025-12-01 11:03:22: Where did the API go to eat? To the RESTaurant. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-01 11:23:23: Why do programmers always get Christmas and Halloween mixed up? Because DEC 25 = OCT 31 (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-01 11:43:25: Chuck Norris commanded Russell Wilson to pass the ball instead of handing it off to Marshawn Lynch. Thats the reason why the Patriots won.........Seahawks should've won. (source: https://api.chucknorris.io/jokes/random)
+- 2025-12-01 12:03:27: Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.” (source: https://geek-jokes.sameerkumar.website/api?format=json)
