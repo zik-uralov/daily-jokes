@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-01 10:43:20:
-What do you call a group of killer whales playing instruments? An Orca-stra.
+🎭 Latest Joke - 2025-12-01 11:03:22:
+Where did the API go to eat? To the RESTaurant.
 
-Source: https://icanhazdadjoke.com/
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
