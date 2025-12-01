@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-11-30 17:01:47:
-Linux: Born to be root. Windows: Born to re-boot
+🎭 Latest Joke - 2025-11-30 17:09:43:
+Why did the developer go broke buying Bitcoin? He kept calling it bytecoin and didn't get any.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
