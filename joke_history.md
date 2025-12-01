@@ -381,3 +381,4 @@ I hope your code behaves the same on Monday as it did on Friday. (source: https:
 - 2025-11-29 14:00:08: Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-11-30 16:21:44: Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague. (source: https://icanhazdadjoke.com/)
 - 2025-11-30 16:41:46: What do you get if you put a duck in a cement mixer? Quacks in the pavement. (source: https://icanhazdadjoke.com/)
+- 2025-11-30 17:01:47: Linux: Born to be root. Windows: Born to re-boot (source: https://geek-jokes.sameerkumar.website/api?format=json)
