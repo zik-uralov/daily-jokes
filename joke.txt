@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-01 10:23:18:
-Chuck Norris is the fifth Beatle.
+🎭 Latest Joke - 2025-12-01 10:43:20:
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
