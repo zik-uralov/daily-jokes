@@ -1,8 +1,5 @@
-🎭 Latest Joke - 2025-12-04 14:31:26:
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+🎭 Latest Joke - 2025-12-04 14:51:28:
+A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."
 
 Source: https://v2.jokeapi.dev/joke/Any?type=single
 
