@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-04 13:11:17:
-Chuck Norris proved that we are alone in the universe. We weren't before his first space expedition.
+🎭 Latest Joke - 2025-12-04 13:31:19:
+Chuck Norris was on American Gladiators and finished the whole show before the first commercial break.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
