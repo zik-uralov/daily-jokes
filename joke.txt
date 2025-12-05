@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-05 10:09:27:
-My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
+🎭 Latest Joke - 2025-12-05 10:29:29:
+Chuck Norris stared at a carton of Orange Juice because it said concentrate. The carton exploded 5 minutes later.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
