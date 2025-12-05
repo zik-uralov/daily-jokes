@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-05 12:49:44:
-Why did the programmer quit his job? Because he didn't get arrays.
+🎭 Latest Joke - 2025-12-05 13:09:46:
+Chuck Norris eats testoster O's for breakfast every morning
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
