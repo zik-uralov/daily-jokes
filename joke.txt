@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-05 09:49:25:
-Once, while driving his Hummer on the way to KFC, Chuck Norris ran a stop sign...up Steven Seagal's ass.
+🎭 Latest Joke - 2025-12-05 10:09:27:
+My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
