@@ -429,3 +429,7 @@ He never returned. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-05 17:37:29: When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-12-06 14:44:11: How do you make holy water? You freeze it and drill holes in it. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-06 15:04:13: Where did you learn to make ice cream? Sunday school. (source: https://icanhazdadjoke.com/)
+- 2025-12-06 15:24:15: A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off." (source: https://v2.jokeapi.dev/joke/Any?type=single)
