@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-05 16:57:26:
-Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
+🎭 Latest Joke - 2025-12-05 17:17:28:
+3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
