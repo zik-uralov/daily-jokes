@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-06 19:04:36:
-Enter any 11-digit prime number to continue.
+🎭 Latest Joke - 2025-12-06 19:24:37:
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
