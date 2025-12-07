@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-06 22:44:54:
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+🎭 Latest Joke - 2025-12-07 01:05:26:
+A reporter asked Chuck Norris if he considered himself a 2nd rate actor or a 3rd rate actor? Chuck asked the reporter if he preferred a fractured skull or a ruptured spleen.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
