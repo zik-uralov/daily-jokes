@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-06 19:24:37:
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+🎭 Latest Joke - 2025-12-06 19:44:39:
+Pauly D from Jersey Shore was at the Dance party where Chuck Norris invented the Electric Slide. His hair is now permanently stuck in a blowout position.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
