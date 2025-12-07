@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-06 21:04:46:
-I have a joke about trickle down economics, but 99% of you will never get it.
+🎭 Latest Joke - 2025-12-06 21:24:48:
+Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
