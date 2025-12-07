@@ -1,6 +1,8 @@
-🎭 Latest Joke - 2025-12-07 01:05:26:
-A reporter asked Chuck Norris if he considered himself a 2nd rate actor or a 3rd rate actor? Chuck asked the reporter if he preferred a fractured skull or a ruptured spleen.
+🎭 Latest Joke - 2025-12-07 01:25:28:
+I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
