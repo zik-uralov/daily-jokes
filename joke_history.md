@@ -441,3 +441,4 @@ The bartender asks it: "What's wrong buddy?"
 - 2025-12-06 17:24:27: What do you call a computer mouse that swears a lot? A cursor! (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-06 17:44:29: What do you call a snake who builds houses? A boa constructor! (source: https://icanhazdadjoke.com/)
 - 2025-12-06 18:04:30: I’m not anti-social; I’m just not user friendly. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2025-12-06 18:24:32: Why did the developer break up with their keyboard? It just wasn't their type anymore. (source: https://official-joke-api.appspot.com/jokes/programming/random)
