@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-06 18:44:34:
-How do you get a baby alien to sleep?  You rocket.
+🎭 Latest Joke - 2025-12-06 19:04:36:
+Enter any 11-digit prime number to continue.
 
-Source: https://icanhazdadjoke.com/
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
