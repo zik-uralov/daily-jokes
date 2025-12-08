@@ -477,3 +477,4 @@ He said "Weird flex, butt okay." (source: https://v2.jokeapi.dev/joke/Any?type=s
 "Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
 It's now three hours later, police have joined in and she still won't say where she got them. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-07 22:16:09: According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2025-12-07 22:36:10: To understand what recursion is... You must first understand what recursion is (source: https://official-joke-api.appspot.com/jokes/programming/random)

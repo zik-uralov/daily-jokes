@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-07 22:16:09:
-According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+🎭 Latest Joke - 2025-12-07 22:36:10:
+To understand what recursion is... You must first understand what recursion is
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
