@@ -1,6 +1,8 @@
-🎭 Latest Joke - 2025-12-07 21:36:06:
-Why did the developer break up with their keyboard? It just wasn't their type anymore.
+🎭 Latest Joke - 2025-12-07 21:56:07:
+My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
+"Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
+It's now three hours later, police have joined in and she still won't say where she got them.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
