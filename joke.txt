@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-08 16:30:41:
-Chuck Norris does not dream.
+🎭 Latest Joke - 2025-12-08 16:50:43:
+Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
