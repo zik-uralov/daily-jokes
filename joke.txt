@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-08 16:10:38:
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+🎭 Latest Joke - 2025-12-08 16:30:41:
+Chuck Norris does not dream.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
