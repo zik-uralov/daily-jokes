@@ -481,3 +481,4 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2025-12-08 16:10:38: Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside. (source: https://icanhazdadjoke.com/)
 - 2025-12-08 16:30:41: Chuck Norris does not dream. (source: https://api.chucknorris.io/jokes/random)
 - 2025-12-08 16:50:43: Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick). (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2025-12-10 19:03:58: How many programmers does it take to change a lightbulb? None that's a hardware problem (source: https://official-joke-api.appspot.com/jokes/programming/random)
