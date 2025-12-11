@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-10 20:04:03:
-Where do programmers like to hangout? The Foo Bar.
+🎭 Latest Joke - 2025-12-10 20:24:05:
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
