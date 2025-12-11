@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-10 20:24:05:
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+🎭 Latest Joke - 2025-12-11 12:22:19:
+What do you call a monkey in a mine field? A babooooom!
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
