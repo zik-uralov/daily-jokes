@@ -483,3 +483,4 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2025-12-08 16:50:43: Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick). (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-12-10 19:03:58: How many programmers does it take to change a lightbulb? None that's a hardware problem (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-10 19:24:00: How do you make holy water? You freeze it and drill holes in it. (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-12-10 19:44:02: A user interface is like a joke. If you have to explain it then it is not that good. (source: https://official-joke-api.appspot.com/jokes/programming/random)
