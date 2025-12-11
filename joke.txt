@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-11 12:42:21:
-Why did the programmer go to art school? He wanted to learn how to code outside the box.
+🎭 Latest Joke - 2025-12-11 13:02:23:
+Chuck Norris once rode a bull, and nine months later it had a calf.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
