@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-11 13:02:23:
-Chuck Norris once rode a bull, and nine months later it had a calf.
+🎭 Latest Joke - 2025-12-11 13:22:24:
+It's just a matter of time until an asteroid strikes earth. They are just scared to hit earth until Chuck Norris has died
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
