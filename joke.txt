@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-11 13:42:26:
-Chuck Norris is the only one that can kill people that can't die!
+🎭 Latest Joke - 2025-12-11 14:02:29:
+Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
