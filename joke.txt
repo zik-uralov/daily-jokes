@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-11 14:02:29:
-Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
+🎭 Latest Joke - 2025-12-11 18:10:58:
+Little-known fact: Lionel Richie wrote 'Dancing On The Ceiling' about the time he attended a Chuck Norris party where he reversed the gravity at his house for the night.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
