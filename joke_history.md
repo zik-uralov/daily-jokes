@@ -493,3 +493,4 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2025-12-11 13:42:26: Chuck Norris is the only one that can kill people that can't die! (source: https://api.chucknorris.io/jokes/random)
 - 2025-12-11 14:02:29: Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-12-11 18:10:58: Little-known fact: Lionel Richie wrote 'Dancing On The Ceiling' about the time he attended a Chuck Norris party where he reversed the gravity at his house for the night. (source: https://api.chucknorris.io/jokes/random)
+- 2025-12-11 18:31:00: Why was the font always tired? It was always bold. (source: https://official-joke-api.appspot.com/jokes/programming/random)

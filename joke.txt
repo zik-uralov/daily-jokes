@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-11 18:10:58:
-Little-known fact: Lionel Richie wrote 'Dancing On The Ceiling' about the time he attended a Chuck Norris party where he reversed the gravity at his house for the night.
+🎭 Latest Joke - 2025-12-11 18:31:00:
+Why was the font always tired? It was always bold.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
