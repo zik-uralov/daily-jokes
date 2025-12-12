@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-11 18:51:02:
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+🎭 Latest Joke - 2025-12-11 19:11:04:
+Chuck Norris eats haggis just for the fun.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
