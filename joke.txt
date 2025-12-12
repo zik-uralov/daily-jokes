@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-11 19:11:04:
-Chuck Norris eats haggis just for the fun.
+🎭 Latest Joke - 2025-12-12 13:43:26:
+I didn't vaccinate my 10 kids and the one that survived is fine!
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
