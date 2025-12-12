@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-12 14:03:28:
-Chuck Norris' mom can kick your ass.
+🎭 Latest Joke - 2025-12-12 14:23:31:
+Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
