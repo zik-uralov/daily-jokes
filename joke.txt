@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-13 14:07:43:
-It takes Chuck Norris 20 minutes to watch 60 Minutes.
+🎭 Latest Joke - 2025-12-13 14:27:45:
+Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
