@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-13 14:27:45:
-Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+🎭 Latest Joke - 2025-12-13 14:47:47:
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
