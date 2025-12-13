@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-12 17:43:50:
-CPU (Coffee Processing Unit)
+🎭 Latest Joke - 2025-12-12 18:03:52:
+Chuck Norris is so tough he makes onions cry.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
