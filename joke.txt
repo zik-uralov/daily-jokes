@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-12 17:03:47:
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+🎭 Latest Joke - 2025-12-12 17:23:48:
+Why did the developer go broke? They kept spending all their cache.
 
-Source: https://icanhazdadjoke.com/
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
