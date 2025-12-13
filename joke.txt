@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-12 18:03:52:
-Chuck Norris is so tough he makes onions cry.
+🎭 Latest Joke - 2025-12-13 13:47:41:
+Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
