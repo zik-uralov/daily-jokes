@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-12 16:03:40:
-Knock-knock. A race condition. Who is there?
+🎭 Latest Joke - 2025-12-12 16:23:42:
+Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...

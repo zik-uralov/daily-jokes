@@ -504,3 +504,4 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2025-12-12 15:23:37: I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there. (source: https://icanhazdadjoke.com/)
 - 2025-12-12 15:43:38: I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day! (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-12 16:03:40: Knock-knock. A race condition. Who is there? (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-12-12 16:23:42: Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face. (source: https://api.chucknorris.io/jokes/random)
