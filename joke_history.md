@@ -518,3 +518,5 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2025-12-13 15:28:01: I'm reading a book about anti-gravity. It's impossible to put down! (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-13 15:48:03: Why did the programmer quit their job? They didn't get arrays. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-13 16:08:04: If at first you don’t succeed; call it version 1.0. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2025-12-13 16:28:06: My wife and I have reached the difficult decision that we do not want children.
+If anybody does, please just send me your contact details and we can drop them off tomorrow. (source: https://v2.jokeapi.dev/joke/Any?type=single)
