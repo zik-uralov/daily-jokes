@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-13 17:48:12:
-Why do programmers prefer dark chocolate? Because it's bitter like their code.
+🎭 Latest Joke - 2025-12-13 18:08:14:
+Programmer (noun.): A machine that turns coffee into code
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
