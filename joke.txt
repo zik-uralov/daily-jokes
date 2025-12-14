@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-13 15:48:03:
-Why did the programmer quit their job? They didn't get arrays.
+🎭 Latest Joke - 2025-12-13 16:08:04:
+If at first you don’t succeed; call it version 1.0.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
