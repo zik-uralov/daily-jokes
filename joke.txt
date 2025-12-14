@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-13 18:08:14:
-Programmer (noun.): A machine that turns coffee into code
+🎭 Latest Joke - 2025-12-13 18:28:16:
+What did the router say to the doctor? It hurts when IP.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
