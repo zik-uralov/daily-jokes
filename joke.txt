@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-13 19:28:21:
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+🎭 Latest Joke - 2025-12-15 13:05:43:
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
-Source: https://icanhazdadjoke.com/
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
