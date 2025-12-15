@@ -532,3 +532,4 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-12-13 19:28:21: "Hey, dad, did you get a haircut?" "No, I got them all cut." (source: https://icanhazdadjoke.com/)
 - 2025-12-15 13:05:43: I have a joke about Stack Overflow, but you would say it's a duplicate. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-15 13:25:45: My parents raised me as an only child, which really annoyed my younger brother. (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2025-12-15 13:45:47: Where does Napoleon keep his armies? In his sleevies. (source: https://icanhazdadjoke.com/)
