@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-16 13:54:49:
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+🎭 Latest Joke - 2025-12-16 14:14:51:
+July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
