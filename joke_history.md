@@ -534,3 +534,4 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-12-15 13:25:45: My parents raised me as an only child, which really annoyed my younger brother. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-15 13:45:47: Where does Napoleon keep his armies? In his sleevies. (source: https://icanhazdadjoke.com/)
 - 2025-12-15 14:05:49: After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history. (source: https://api.chucknorris.io/jokes/random)
+- 2025-12-16 13:13:58: What goes after USA? USB. (source: https://official-joke-api.appspot.com/jokes/programming/random)
