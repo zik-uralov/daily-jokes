@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-17 10:46:48:
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+🎭 Latest Joke - 2025-12-17 11:06:50:
+Chuck Norris can escape a Black Hole
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
