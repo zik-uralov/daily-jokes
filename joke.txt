@@ -1,6 +1,9 @@
-🎭 Latest Joke - 2025-12-17 15:07:15:
-Chuck Norris went up Niagara Falls in a barrel.
+🎭 Latest Joke - 2025-12-17 15:27:17:
+What does the MacBook have in common with Donald Trump?
 
-Source: https://api.chucknorris.io/jokes/random
+I would tell you....
+But I don't compare apples to oranges.
+
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...

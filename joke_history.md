@@ -556,3 +556,7 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-12-17 14:27:11: The First rule of Chuck Norris is: you do not talk about Chuck Norris. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-12-17 14:47:13: Why did the developer go to therapy? They had too many unresolved issues. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-17 15:07:15: Chuck Norris went up Niagara Falls in a barrel. (source: https://api.chucknorris.io/jokes/random)
+- 2025-12-17 15:27:17: What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?type=single)
