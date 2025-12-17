@@ -544,3 +544,4 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-12-16 15:14:56: Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2025-12-17 10:46:48: Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents. (source: https://icanhazdadjoke.com/)
 - 2025-12-17 11:06:50: Chuck Norris can escape a Black Hole (source: https://api.chucknorris.io/jokes/random)
+- 2025-12-17 11:26:53: How many React developers does it take to change a lightbulb? None, they prefer dark mode. (source: https://official-joke-api.appspot.com/jokes/programming/random)

@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2025-12-17 11:06:50:
-Chuck Norris can escape a Black Hole
+🎭 Latest Joke - 2025-12-17 11:26:53:
+How many React developers does it take to change a lightbulb? None, they prefer dark mode.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
