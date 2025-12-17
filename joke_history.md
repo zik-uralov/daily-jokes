@@ -548,3 +548,4 @@ If anybody does, please just send me your contact details and we can drop them o
 - 2025-12-17 11:46:55: I'd tell you a joke about NAT but I would have to translate. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-17 12:06:57: A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!" (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-17 12:26:58: How many programmers does it take to change a lightbulb? None that's a hardware problem (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2025-12-17 12:47:00: Chuck Norris can cough in 7 different languages. (source: https://api.chucknorris.io/jokes/random)
