@@ -562,3 +562,4 @@ I would tell you....
 But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2025-12-17 15:47:19: Why do programmers prefer dark chocolate? Because it's bitter like their code. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2025-12-17 16:07:20: My New Years resolution is to stop leaving things so late. (source: https://icanhazdadjoke.com/)
+- 2025-12-17 16:27:22: What's the best part about TCP jokes? I get to keep telling them until you get them. (source: https://official-joke-api.appspot.com/jokes/programming/random)
