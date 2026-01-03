@@ -582,3 +582,6 @@ But I don't compare apples to oranges. (source: https://v2.jokeapi.dev/joke/Any?
 - 2026-01-02 14:35:04: Why do programmers prefer dark mode? Because light attracts bugs! (source: Fallback joke (local))
 - 2026-01-02 14:55:05: Why do programmers prefer dark mode? Because light attracts bugs! (source: Fallback joke (local))
 - 2026-01-02 16:45:51: My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?" (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2026-01-02 17:05:53: Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing." (source: https://v2.jokeapi.dev/joke/Any?type=single)
