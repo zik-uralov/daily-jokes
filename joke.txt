@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-01-02 18:26:01:
-What did the router say to the doctor? It hurts when IP.
+🎭 Latest Joke - 2026-01-02 18:46:02:
+The duck billed platypus is the result of a duck being roundhouse kicked in the head far to close to a beaver by Chuck Norris. The fact yay they have a pouch is a testament to the genetically altering properties of a Chuck Norris Roundhouse kick to the head.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
