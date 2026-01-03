@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-01-02 14:55:05:
-Why do programmers prefer dark mode? Because light attracts bugs!
+🎭 Latest Joke - 2026-01-02 16:45:51:
+My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
 
-Source: Fallback joke (local)
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
