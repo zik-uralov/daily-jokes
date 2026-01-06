@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-01-02 18:46:02:
-The duck billed platypus is the result of a duck being roundhouse kicked in the head far to close to a beaver by Chuck Norris. The fact yay they have a pouch is a testament to the genetically altering properties of a Chuck Norris Roundhouse kick to the head.
+🎭 Latest Joke - 2026-01-06 00:26:54:
+How many programmers does it take to change a lightbulb? None that's a hardware problem
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...

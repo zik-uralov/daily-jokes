@@ -590,3 +590,4 @@ Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathin
 - 2026-01-02 18:05:59: Why do Java programmers wear glasses? Because they don't C#. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2026-01-02 18:26:01: What did the router say to the doctor? It hurts when IP. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2026-01-02 18:46:02: The duck billed platypus is the result of a duck being roundhouse kicked in the head far to close to a beaver by Chuck Norris. The fact yay they have a pouch is a testament to the genetically altering properties of a Chuck Norris Roundhouse kick to the head. (source: https://api.chucknorris.io/jokes/random)
+- 2026-01-06 00:26:54: How many programmers does it take to change a lightbulb? None that's a hardware problem (source: https://official-joke-api.appspot.com/jokes/programming/random)
