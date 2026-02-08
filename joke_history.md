@@ -606,3 +606,6 @@ So I packed up my stuff and right. (source: https://v2.jokeapi.dev/joke/Any?type
 - 2026-02-07 18:17:38: Why did the sentence fail the driving test? It never came to a full stop. (source: https://icanhazdadjoke.com/)
 - 2026-02-07 18:37:40: Debugging: Removing the needles from the haystack. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2026-02-07 18:57:42: Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?" (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2026-02-07 19:17:43: My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
+"Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
+It's now three hours later, police have joined in and she still won't say where she got them. (source: https://v2.jokeapi.dev/joke/Any?type=single)
