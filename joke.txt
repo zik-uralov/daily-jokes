@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-07 20:57:52:
-What is the leading cause of dry skin? Towels
+🎭 Latest Joke - 2026-02-07 21:17:53:
+Bowser was once like any other Koopa- until Chuck Norris breathed on him.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
