@@ -602,3 +602,4 @@ So I packed up my stuff and right. (source: https://v2.jokeapi.dev/joke/Any?type
 - 2026-02-07 16:57:32: The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2026-02-07 17:17:33: Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone". (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2026-02-07 17:37:35: Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in. (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2026-02-07 17:57:37: What's the object-oriented way to become wealthy? Inheritance (source: https://official-joke-api.appspot.com/jokes/programming/random)
