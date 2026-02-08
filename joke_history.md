@@ -610,3 +610,4 @@ So I packed up my stuff and right. (source: https://v2.jokeapi.dev/joke/Any?type
 "Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
 It's now three hours later, police have joined in and she still won't say where she got them. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2026-02-07 19:37:45: Why is it so windy inside an arena? All those fans. (source: https://icanhazdadjoke.com/)
+- 2026-02-07 19:57:47: How do you make Lady Gaga cry? Poker face.  (source: https://icanhazdadjoke.com/)
