@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-07 16:37:29:
-Chuck Norris invented Hemorrhoids by pulling a man's testicles out thru' his ass.
+🎭 Latest Joke - 2026-02-07 16:57:32:
+The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
