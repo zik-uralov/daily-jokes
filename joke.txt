@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-08 01:18:16:
-What is bread's favorite number?  Leaven.
+🎭 Latest Joke - 2026-02-08 01:38:17:
+Why did the developer go broke? They kept spending all their cache.
 
-Source: https://icanhazdadjoke.com/
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
