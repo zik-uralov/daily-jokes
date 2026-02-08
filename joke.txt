@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-07 16:57:32:
-The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice.
+🎭 Latest Joke - 2026-02-07 17:17:33:
+Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
