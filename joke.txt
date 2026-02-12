@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 11:36:59:
-Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+🎭 Latest Joke - 2026-02-12 11:57:01:
+Chun kuk do- founded by Chuck Norris in 1990- is an amalgamation of Korean tang soo do, shotokan karate, subak, taekkyon, judo and Brazilian jiu-jitsu. In other words, it's the juice that powers his epic roundhouse kicks.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
