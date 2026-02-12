@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 05:56:28:
-Why did the programmer quit his job? Because he didn't get arrays.
+🎭 Latest Joke - 2026-02-12 06:16:30:
+Chuck Norris can set ants on fire with a magnifying glass. At night.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
