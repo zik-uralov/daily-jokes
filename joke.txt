@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 14:17:20:
-What kind of magic do cows believe in? MOODOO.
+🎭 Latest Joke - 2026-02-12 14:37:22:
+Chuck Norris and Rick Perry were driving through Texas on a beer dinking binge. And Rick Perry threw a lit cigarette butt out the window.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
