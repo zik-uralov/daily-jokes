@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-08 01:58:19:
-Why did the programmer always carry a pencil? They preferred to write in C#.
+🎭 Latest Joke - 2026-02-12 01:16:03:
+The Grand Canyon was caused by Chuck Norris pissing there--Once.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
