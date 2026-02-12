@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 14:57:24:
-Chuck Norris was the first one to know that the bird is the word
+🎭 Latest Joke - 2026-02-12 15:17:26:
+Lady: How do I spread love in this cruel world? Random Dude: [...💘]
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
