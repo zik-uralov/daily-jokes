@@ -1,8 +1,6 @@
-🎭 Latest Joke - 2026-02-12 08:36:43:
-Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...
+🎭 Latest Joke - 2026-02-12 08:56:45:
+An IPv6 packet is walking out of the house. He goes nowhere.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...

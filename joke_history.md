@@ -665,3 +665,4 @@ I called him a hypocrite and unplugged his life support. (source: https://v2.jok
 - 2026-02-12 08:36:43: Documentation is like sex:
 When it's good, it's very good.
 When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2026-02-12 08:56:45: An IPv6 packet is walking out of the house. He goes nowhere. (source: https://official-joke-api.appspot.com/jokes/programming/random)
