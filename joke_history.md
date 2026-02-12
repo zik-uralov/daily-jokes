@@ -682,3 +682,4 @@ It's now three hours later, police have joined in and she still won't say where 
 "Oh and while you're there, get some milk."
 He never returned. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2026-02-12 12:37:05: Chuck Norris's keyboard has the Any key. (source: https://api.chucknorris.io/jokes/random)
+- 2026-02-12 12:57:08: Chuck Norris is accredited with creating the Watusi tribe after uppercutting a few Pygmies. (source: https://api.chucknorris.io/jokes/random)
