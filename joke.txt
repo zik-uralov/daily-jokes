@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 04:36:21:
-My parents raised me as an only child, which really annoyed my younger brother.
+🎭 Latest Joke - 2026-02-12 04:56:23:
+How do you generate a random string? Put a Windows user in front of Vim and tell them to exit.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
