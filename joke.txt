@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 13:17:15:
-Why do Java programmers wear glasses? Because they don't C#.
+🎭 Latest Joke - 2026-02-12 13:37:17:
+What do you call two barracuda fish?  A Pairacuda!
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
