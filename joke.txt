@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 07:16:36:
-Why did the programmer always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.
+🎭 Latest Joke - 2026-02-12 07:36:37:
+Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
