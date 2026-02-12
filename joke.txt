@@ -1,9 +1,6 @@
-🎭 Latest Joke - 2026-02-12 12:17:04:
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+🎭 Latest Joke - 2026-02-12 12:37:05:
+Chuck Norris's keyboard has the Any key.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
