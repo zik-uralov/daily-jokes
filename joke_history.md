@@ -674,3 +674,4 @@ When it's bad, it's better than nothing... (source: https://v2.jokeapi.dev/joke/
 "Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
 It's now three hours later, police have joined in and she still won't say where she got them. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2026-02-12 10:56:55: Chuck Norris once consumed a 40lb sack of rice in under 8 minutes... using a single chopstick. (source: https://api.chucknorris.io/jokes/random)
+- 2026-02-12 11:16:58: Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. (source: https://official-joke-api.appspot.com/jokes/programming/random)
