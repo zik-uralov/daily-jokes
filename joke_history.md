@@ -652,3 +652,7 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2026-02-12 05:36:26: Le gf: I'll dump you.Le bf: hex dump or binary dump?  (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2026-02-12 05:56:28: Why did the programmer quit his job? Because he didn't get arrays. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2026-02-12 06:16:30: Chuck Norris can set ants on fire with a magnifying glass. At night. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2026-02-12 06:36:31: A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off." (source: https://v2.jokeapi.dev/joke/Any?type=single)
