@@ -1,11 +1,6 @@
-🎭 Latest Joke - 2026-02-12 05:16:25:
-"Knock, knock."
-"Who's there?"
+🎭 Latest Joke - 2026-02-12 05:36:26:
+Le gf: I'll dump you.Le bf: hex dump or binary dump? 
 
-[very long pause]
-
-"Java."
-
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
