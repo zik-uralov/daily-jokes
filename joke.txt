@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 05:36:26:
-Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+🎭 Latest Joke - 2026-02-12 05:56:28:
+Why did the programmer quit his job? Because he didn't get arrays.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
