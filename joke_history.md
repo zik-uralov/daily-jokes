@@ -637,3 +637,4 @@ It's now three hours later, police have joined in and she still won't say where 
 - 2026-02-12 02:56:13: "Can I tell you a TCP joke?"
 "Please tell me a TCP joke."
 "OK, I'll tell you a TCP joke." (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2026-02-12 03:16:15: What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit. (source: https://official-joke-api.appspot.com/jokes/programming/random)
