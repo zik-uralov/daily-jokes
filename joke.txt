@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 09:16:46:
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+🎭 Latest Joke - 2026-02-12 09:36:48:
+Chuck Norris went to walmart once to buy a new laptop. they told him which was the best price. it was the $9.99 so chuck roundhouse kicked them and said i never asked for the price
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
