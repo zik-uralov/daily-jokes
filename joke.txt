@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-02-12 02:16:10:
-There are 10 types of people in this world... Those who understand binary and those who don't
+🎭 Latest Joke - 2026-02-12 02:36:11:
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
-Source: https://official-joke-api.appspot.com/jokes/programming/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
