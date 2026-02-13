@@ -695,3 +695,5 @@ He never returned. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2026-02-12 16:17:31: What is the difference between ignorance and apathy?
 
 I don't know and I don't care. (source: https://icanhazdadjoke.com/)
+- 2026-02-12 16:37:33: Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow. (source: https://icanhazdadjoke.com/)
