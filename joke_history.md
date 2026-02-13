@@ -692,3 +692,6 @@ He never returned. (source: https://v2.jokeapi.dev/joke/Any?type=single)
 - 2026-02-12 15:17:26: Lady: How do I spread love in this cruel world? Random Dude: [...💘] (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2026-02-12 15:37:28: There are no steroids in baseball. Just players Chuck Norris has breathed on. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2026-02-12 15:57:30: Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure. (source: https://geek-jokes.sameerkumar.website/api?format=json)
+- 2026-02-12 16:17:31: What is the difference between ignorance and apathy?
+
+I don't know and I don't care. (source: https://icanhazdadjoke.com/)
