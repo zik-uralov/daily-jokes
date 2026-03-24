@@ -727,3 +727,4 @@ The bartender asks it: "What's wrong buddy?"
 - 2026-03-23 20:26:34: What was the pumpkin’s favorite sport?
 
 Squash. (source: https://icanhazdadjoke.com/)
+- 2026-03-23 20:46:36: Why can’t you hear a pterodactyl go to the bathroom? The p is silent. (source: https://icanhazdadjoke.com/)
