@@ -724,3 +724,6 @@ The bartender asks, "Can I get you anything?"
 The bartender asks it: "What's wrong buddy?"
 "Parity error." it replies. 
 "Ah that makes sense, I thought you looked a bit off." (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2026-03-23 20:26:34: What was the pumpkin’s favorite sport?
+
+Squash. (source: https://icanhazdadjoke.com/)
