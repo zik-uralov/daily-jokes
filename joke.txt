@@ -1,10 +1,5 @@
-🎭 Latest Joke - 2026-03-23 16:46:10:
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+🎭 Latest Joke - 2026-03-23 17:06:13:
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 Source: https://v2.jokeapi.dev/joke/Any?type=single
 
