@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-04-01 00:53:32:
-What do you call a fish wearing a bowtie? Sofishticated.
+🎭 Latest Joke - 2026-04-01 01:13:34:
+Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 
-Source: https://icanhazdadjoke.com/
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
