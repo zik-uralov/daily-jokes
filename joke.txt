@@ -1,6 +1,7 @@
-🎭 Latest Joke - 2026-04-01 02:53:43:
-Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
+🎭 Latest Joke - 2026-04-01 03:13:45:
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
