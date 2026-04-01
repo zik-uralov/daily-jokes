@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-03-23 21:06:37:
-What do you call two guys hanging out by your window? Kurt & Rod.
+🎭 Latest Joke - 2026-03-31 20:33:08:
+Chuck Norris doesn't celebrate Christmas, Christmas celebrates Chuck Norris.
 
-Source: https://icanhazdadjoke.com/
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...

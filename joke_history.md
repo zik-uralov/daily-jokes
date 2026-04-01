@@ -729,3 +729,4 @@ The bartender asks it: "What's wrong buddy?"
 Squash. (source: https://icanhazdadjoke.com/)
 - 2026-03-23 20:46:36: Why can’t you hear a pterodactyl go to the bathroom? The p is silent. (source: https://icanhazdadjoke.com/)
 - 2026-03-23 21:06:37: What do you call two guys hanging out by your window? Kurt & Rod. (source: https://icanhazdadjoke.com/)
+- 2026-03-31 20:33:08: Chuck Norris doesn't celebrate Christmas, Christmas celebrates Chuck Norris. (source: https://api.chucknorris.io/jokes/random)
