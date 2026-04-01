@@ -733,3 +733,4 @@ Squash. (source: https://icanhazdadjoke.com/)
 - 2026-03-31 20:53:11: Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!' (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2026-03-31 21:13:12: I’m reading a book on the history of glue – can’t put it down. (source: https://icanhazdadjoke.com/)
 - 2026-03-31 21:33:14: How do you comfort a designer? You give them some space... between the elements. (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2026-03-31 21:53:16: Why did the Clydesdale give the pony a glass of water?  Because he was a little horse! (source: https://icanhazdadjoke.com/)
