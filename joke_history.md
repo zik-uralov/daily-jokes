@@ -744,3 +744,4 @@ The guy says "In that case, better make it a double." (source: https://v2.jokeap
 - 2026-03-31 23:53:27: Chuck Norris does, in fact, live in a round house. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2026-04-01 00:13:29: In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2026-04-01 00:33:30: Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?" (source: https://v2.jokeapi.dev/joke/Any?type=single)
+- 2026-04-01 00:53:32: What do you call a fish wearing a bowtie? Sofishticated. (source: https://icanhazdadjoke.com/)
