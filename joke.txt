@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-03-31 23:33:25:
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+🎭 Latest Joke - 2026-03-31 23:53:27:
+Chuck Norris does, in fact, live in a round house.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
