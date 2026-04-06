@@ -753,3 +753,6 @@ The guy says "In that case, better make it a double." (source: https://v2.jokeap
 - 2026-04-01 02:53:43: Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off. (source: https://geek-jokes.sameerkumar.website/api?format=json)
 - 2026-04-01 03:13:45: Q: What did the spaghetti say to the other spaghetti?
 A: Pasta la vista, baby! (source: https://icanhazdadjoke.com/)
+- 2026-04-06 14:25:45: Two reasons I don't give money to homeless people.
+1) They are going to spend it all on drugs and alcohol
+2) I am going to spend it all on drugs and alcohol. (source: https://v2.jokeapi.dev/joke/Any?type=single)
