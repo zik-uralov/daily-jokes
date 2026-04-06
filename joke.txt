@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-04-06 15:05:49:
-UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
+🎭 Latest Joke - 2026-04-06 15:25:51:
+What time did the man go to the dentist? Tooth hurt-y.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
