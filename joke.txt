@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-05-05 23:37:37:
-Debugging: Removing the needles from the haystack.
+🎭 Latest Joke - 2026-05-05 23:57:39:
+You can't run through a camp site. You can only ran, because it's past tents.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
