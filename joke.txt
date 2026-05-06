@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-05-06 00:37:44:
-What's brown and sticky? A stick.
+🎭 Latest Joke - 2026-05-06 00:57:46:
+I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.
 
-Source: https://icanhazdadjoke.com/
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
