@@ -772,3 +772,8 @@ A: Pasta la vista, baby! (source: https://icanhazdadjoke.com/)
 - 2026-05-12 23:27:12: Why did the developer go broke? They kept spending all their cache. (source: https://official-joke-api.appspot.com/jokes/programming/random)
 - 2026-05-12 23:47:14: Who wrote the book of love? Chuck Norris. He also authored The Book Of Death (Vols 1-27). (source: https://api.chucknorris.io/jokes/random)
 - 2026-05-13 00:07:16: Why do programmers always get Christmas and Halloween mixed up? Because DEC 25 = OCT 31 (source: https://official-joke-api.appspot.com/jokes/programming/random)
+- 2026-05-13 00:27:18: How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5. (source: https://v2.jokeapi.dev/joke/Any?type=single)
