@@ -1,10 +1,6 @@
-🎭 Latest Joke - 2026-05-13 00:27:18:
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+🎭 Latest Joke - 2026-05-13 00:47:21:
+Think of a hot woman. Chuck Norris did her.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
