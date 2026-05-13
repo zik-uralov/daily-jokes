@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-05-13 00:47:21:
-Think of a hot woman. Chuck Norris did her.
+🎭 Latest Joke - 2026-05-13 01:07:23:
+Chuck Norris once walked into a feminist convention wearing a 'No Fat Chick' t-shirt, and ended up having sex with over twenty lesbians.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://api.chucknorris.io/jokes/random
 
 Next update in 20 minutes...
