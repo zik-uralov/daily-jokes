@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-05-15 00:09:02:
-My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
+🎭 Latest Joke - 2026-05-15 00:29:05:
+How many React developers does it take to change a lightbulb? None, they prefer dark mode.
 
-Source: https://v2.jokeapi.dev/joke/Any?type=single
+Source: https://official-joke-api.appspot.com/jokes/programming/random
 
 Next update in 20 minutes...
