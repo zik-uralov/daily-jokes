@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-05-14 23:48:59:
-Chuck Norris struck gold while performing his own prostate exam.
+🎭 Latest Joke - 2026-05-15 00:09:02:
+My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
 
-Source: https://api.chucknorris.io/jokes/random
+Source: https://v2.jokeapi.dev/joke/Any?type=single
 
 Next update in 20 minutes...
