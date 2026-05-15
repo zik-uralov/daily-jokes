@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-05-15 00:49:07:
-What's black and white and read all over? The newspaper.
+🎭 Latest Joke - 2026-05-15 01:09:09:
+Once you go Norris, you are physically unable to go back.
 
-Source: https://icanhazdadjoke.com/
+Source: https://geek-jokes.sameerkumar.website/api?format=json
 
 Next update in 20 minutes...
