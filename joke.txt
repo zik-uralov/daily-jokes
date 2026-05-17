@@ -1,6 +1,6 @@
-🎭 Latest Joke - 2026-05-15 01:09:09:
-Once you go Norris, you are physically unable to go back.
+🎭 Latest Joke - 2026-05-17 00:59:48:
+To be Frank, I'd have to change my name.
 
-Source: https://geek-jokes.sameerkumar.website/api?format=json
+Source: https://icanhazdadjoke.com/
 
 Next update in 20 minutes...
